@@ -1,0 +1,8 @@
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.Entities\bin\Debug\netstandard2.0\Level2.Entities.deps.json
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.Entities\bin\Debug\netstandard2.0\Level2.Entities.dll
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.Entities\bin\Debug\netstandard2.0\Level2.Entities.pdb
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.Entities\obj\Debug\netstandard2.0\Level2.Entities.csprojAssemblyReference.cache
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.Entities\obj\Debug\netstandard2.0\Level2.Entities.AssemblyInfoInputs.cache
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.Entities\obj\Debug\netstandard2.0\Level2.Entities.AssemblyInfo.cs
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.Entities\obj\Debug\netstandard2.0\Level2.Entities.dll
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.Entities\obj\Debug\netstandard2.0\Level2.Entities.pdb

@@ -1,0 +1,8 @@
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.DataLayer\bin\Debug\netstandard2.0\Level2.DataLayer.deps.json
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.DataLayer\bin\Debug\netstandard2.0\Level2.DataLayer.dll
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.DataLayer\bin\Debug\netstandard2.0\Level2.DataLayer.pdb
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.DataLayer\obj\Debug\netstandard2.0\Level2.DataLayer.csprojAssemblyReference.cache
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.DataLayer\obj\Debug\netstandard2.0\Level2.DataLayer.AssemblyInfoInputs.cache
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.DataLayer\obj\Debug\netstandard2.0\Level2.DataLayer.AssemblyInfo.cs
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.DataLayer\obj\Debug\netstandard2.0\Level2.DataLayer.dll
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.DataLayer\obj\Debug\netstandard2.0\Level2.DataLayer.pdb

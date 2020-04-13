@@ -1,0 +1,7 @@
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.BusinessLayer\bin\Debug\netstandard2.0\Level2.BusinessLayer.deps.json
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.BusinessLayer\bin\Debug\netstandard2.0\Level2.BusinessLayer.dll
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.BusinessLayer\bin\Debug\netstandard2.0\Level2.BusinessLayer.pdb
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.BusinessLayer\obj\Debug\netstandard2.0\Level2.BusinessLayer.AssemblyInfoInputs.cache
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.BusinessLayer\obj\Debug\netstandard2.0\Level2.BusinessLayer.AssemblyInfo.cs
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.BusinessLayer\obj\Debug\netstandard2.0\Level2.BusinessLayer.dll
+E:\Shilpa\19-03-2020\EntityFramework\Level2\Level2.BusinessLayer\obj\Debug\netstandard2.0\Level2.BusinessLayer.pdb
